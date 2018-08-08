@@ -1,0 +1,180 @@
+{
+  "basics": {
+    "name": "Jesús Urrutia",
+    "label": "Desarrollador",
+    "picture": "https://jesusurrutia.com/",
+    "email": "jesus.urrutia@gmail.com",
+    "phone": "(56) 995999485",
+    "website": "https://jesusurrutia.com",
+    "summary": "Appasionate Developer",
+    "location": {
+      "address": "-",
+      "postalCode": "-",
+      "city": "Santiago",
+      "countryCode": "CL",
+      "region": "Región Metropolitana"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jesusgoku",
+        "url": "https://twitter.com/jesusgoku"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jesusgoku",
+        "url": "https://twitter.com/jesusgoku"
+      },
+      {
+        "network": "GitHub",
+        "username": "jesusgoku",
+        "url": "https://github.com/jesusgoku"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Digital Meat",
+      "position": "Desarrollador",
+      "website": "https://meat.cl",
+      "startDate": "2018-01-23",
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Unholster",
+      "position": "Desarrollador",
+      "website": "https://unholster.cl",
+      "startDate": "2017-05-01",
+      "endDate": "2017-11-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Linets",
+      "position": "Desarrollador I+D",
+      "website": "https://linets.cl",
+      "startDate": "2016-05-01",
+      "endDate": "2017-04-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Option Spa",
+      "position": "Desarrollador",
+      "website": "https://www.option.cl",
+      "startDate": "2014-05-01",
+      "endDate": "2016-11-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "MRC",
+      "position": "Desarrollador",
+      "website": "https://www.mrc.cl",
+      "startDate": "2010-05-01",
+      "endDate": "2014-11-30",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad de Santiago de Chile",
+      "area": "Ingeniería en Ejecución Informática",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "-",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Santiago de Chile",
+      "area": "Ingeniería Civil Informática",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "-",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Católica de Valparaíso",
+      "area": "Ingeniería Civil Informática",
+      "studyType": "Bachelor",
+      "startDate": "2007-01-01",
+      "endDate": "2009-01-01",
+      "gpa": "-",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Developer",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SCSS",
+        "SASS",
+        "React",
+        "Redux",
+        "Angular",
+        "AngularJS",
+        "TypeScript",
+        "CoffeeScript"
+      ]
+    },
+    {
+      "name": "Backend Developer",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Python",
+        "Javascript",
+        "MySQL",
+        "PostgresSQL",
+        "Redis",
+        "RabbitMQ",
+        "Symfony",
+        "Laravel",
+        "Django",
+        "Node",
+        "Express"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Español",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Principiante"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Karate-Do",
+      "keywords": []
+    },
+    {
+      "name": "Running",
+      "keywords": []
+    },
+    {
+      "name": "Montañismo",
+      "keywords": []
+    },
+    {
+      "name": "Trail Running",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
