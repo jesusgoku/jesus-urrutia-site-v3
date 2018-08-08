@@ -1,4 +1,8 @@
 public/*
+functions/*
+!functions/package.json
+!functions/yarn.lock
+!functions/.eslintrc.json
 
 # Created by https://www.gitignore.io/api/osx,node,sass,macos,firebase,visualstudiocode
 

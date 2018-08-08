@@ -6,16 +6,23 @@
     "dev:watch": "npm run dev -- --watch",
     "serve": "node_modules/.bin/encore dev-server --port 5000",
     "serve:watch": "npm run serve -- --watch",
-    "prod": "node_modules/.bin/encore production"
+    "prod": "node_modules/.bin/encore production",
+    "babel": "node_modules/.bin/babel src -d functions/src && node_modules/.bin/babel index.js -d functions/"
   },
   "devDependencies": {
     "@symfony/webpack-encore": "^0.20.1",
+    "babel-cli": "^6.26.0",
     "babel-preset-react": "^6.24.1",
+    "firebase-admin": "^5.13.1",
+    "firebase-functions": "^2.0.2",
+    "firebase-tools": "^4.0.3",
+    "grpc": "^1.13.1",
     "html-webpack-plugin": "^3.2.0",
     "node-sass": "^4.9.2",
     "sass-loader": "^7.1.0"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "font-awesome": "^4.7.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
