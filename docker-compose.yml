@@ -1,0 +1,15 @@
+version: '2'
+services:
+  node:
+    image: "node:carbon-alpine"
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=devolpment
+    volumes:
+      - ./:/home/node/app
+    expose:
+      - "5000"
+    ports:
+      - "5000:5000"
+    command: "./node_modules/.bin/encore dev-server --port 5000 --host 0.0.0.0"
