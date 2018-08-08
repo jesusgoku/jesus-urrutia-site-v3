@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "node_modules/.bin/encore dev",
     "dev:watch": "npm run dev -- --watch",
-    "serve": "node_modules/.bin/encore dev-server --port 5000",
+    "serve": "node_modules/.bin/encore dev-server --host 0.0.0.0 --port 5000",
     "serve:watch": "npm run serve -- --watch",
     "prod": "node_modules/.bin/encore production"
   },
