@@ -4,7 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 Encore
   .setOutputPath('public/')
   .setPublicPath('/')
-  .addEntry('app', './src/js/app.js')
+  .addEntry('app', './src/js/index.js')
   .cleanupOutputBeforeBuild()
   .enableSourceMaps(!Encore.isProduction())
   .enableVersioning(Encore.isProduction())
