@@ -5,6 +5,15 @@ import App from './views/App';
 
 import '../scss/app.scss';
 
-import resume from '../../resume.json';
 
-render(<App resume={resume} />, window.root);
+import resumeEs from '../../resume.es.json';
+import resumeEn from '../../resume.en.json';
+
+const resumes = {
+  en: resumeEn,
+  es: resumeEs,
+};
+
+const locale = 'es';
+
+render(<App resume={resumes[locale]} />, window.root);

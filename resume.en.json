@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jesús Urrutia",
-    "label": "Desarrollador",
+    "label": "Developer",
     "picture": "https://jesusurrutia.com/",
     "email": "jesus.urrutia@gmail.com",
     "phone": "(56) 995999485",
@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "Digital Meat",
-      "position": "Desarrollador",
+      "position": "Developer",
       "website": "https://meat.cl",
       "startDate": "2018-01-23",
       "endDate": null,
@@ -44,7 +44,7 @@
     },
     {
       "company": "Unholster",
-      "position": "Desarrollador",
+      "position": "Developer",
       "website": "https://unholster.cl",
       "startDate": "2017-05-01",
       "endDate": "2017-11-30",
@@ -53,7 +53,7 @@
     },
     {
       "company": "Linets",
-      "position": "Desarrollador I+D",
+      "position": "Developer I+D",
       "website": "https://linets.cl",
       "startDate": "2016-05-01",
       "endDate": "2017-04-30",
@@ -62,7 +62,7 @@
     },
     {
       "company": "Option Spa",
-      "position": "Desarrollador",
+      "position": "Developer",
       "website": "https://www.option.cl",
       "startDate": "2014-05-01",
       "endDate": "2016-11-30",
@@ -71,7 +71,7 @@
     },
     {
       "company": "MRC",
-      "position": "Desarrollador",
+      "position": "Developer",
       "website": "https://www.mrc.cl",
       "startDate": "2010-05-01",
       "endDate": "2014-11-30",
@@ -150,12 +150,12 @@
   ],
   "languages": [
     {
-      "name": "Español",
-      "level": "Nativo"
+      "name": "Spanish",
+      "level": "Native"
     },
     {
-      "name": "Ingles",
-      "level": "Principiante"
+      "name": "English",
+      "level": "Principiant"
     }
   ],
   "interests": [
@@ -168,7 +168,7 @@
       "keywords": []
     },
     {
-      "name": "Montañismo",
+      "name": "Mountaineering",
       "keywords": []
     },
     {
